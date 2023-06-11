@@ -39,10 +39,13 @@ Youtube Playlist: [Practical Deep Learning for Coders 2022](https://www.youtube.
 - Lesson 3
   - Youtube - [Lesson 3: Practical Deep Learning for Coders 2022](https://www.youtube.com/watch?v=hBBOjCiFcuo)
   - Notebooks
-    - GitHub - [fastai/fastbook/...]()
+    - Hugging face spaces - [pets](https://huggingface.co/spaces/prasanthntu/pets/tree/main) - `training.ipynb` and `app.ipynb`
+      - Kaggle version - [fastai-prd-apps-pets-training](https://www.kaggle.com/prasanth07/fastai-prd-apps-pets-training)
     - GitHub - [fastai/course22/03-which-image-models-are-best.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/03-which-image-models-are-best.ipynb)
       - Kaggle version - [which image models are best](https://www.kaggle.com/code/prasanth07/which-image-models-are-best)
     - GitHub - [fastai/course22/04-how-does-a-neural-net-really-work.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/04-how-does-a-neural-net-really-work.ipynb)
+  - Additional files
+    - [titnaic.xlsx](xl/titanic.xlsx) - To viz linear reg and NNet
   - GitHub - [fastai/course22/slides/lesson3.pptx](https://github.com/prasanth-ntu/fastai-course22/blob/master/slides/lesson3.pptx)
   - fast.ai - [Lessons/lesson3.html](https://course.fast.ai/Lessons/lesson3.html)
   - fast.ai forums - [Lesson 3 official topic](https://forums.fast.ai/t/lesson-3-official-topic/96254/1)
