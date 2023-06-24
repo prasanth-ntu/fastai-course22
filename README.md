@@ -60,6 +60,8 @@ Youtube Playlist: [Practical Deep Learning for Coders 2022](https://www.youtube.
   - Notebooks 
     - GitHub - [fastai/course22/kaggle-notebooks/getting-started-with-nlp-for-absolute-beginners.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/kaggle_notebooks/getting-started-with-nlp-for-absolute-beginners.ipynb)
       - Kaggle version: [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/prasanth07/getting-started-with-nlp-for-absolute-beginners/)
+  - fast.ai - [Lessons/lesson4.html](https://course.fast.ai/Lessons/lesson4.html)
+  - fast.ai forums - [Lesson 4 official topic](https://forums.fast.ai/t/lesson-4-official-topic/96441)
 
 - Lesson 5
   - Youtube - [Lesson 5: Practical Deep Learning for Coders 2022
@@ -69,5 +71,8 @@ Youtube Playlist: [Practical Deep Learning for Coders 2022](https://www.youtube.
     - GitHub - [fastai/course22/05-linear-model-and-neural-net-from-scratch.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/05-linear-model-and-neural-net-from-scratch.ipynb)
     - GitHub - [fastai/course22/06-why-you-should-use-a-framework.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/06-why-you-should-use-a-framework.ipynb)
     - GitHub - [fastai/fastai-course22/07-how-random-forests-really-work.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/07-how-random-forests-really-work.ipynb)
+      - Partially covered until "Binary Splits"
   - Additional files
     - [titanic.xlsx](xl/titanic.xlsx) - To viz linear reg and NNet
+  - fast.ai - [Lessons/lesson5.html](https://course.fast.ai/Lessons/lesson5.html)
+  - fast.ai forums - [Lesson 5 official topic](https://forums.fast.ai/t/lesson-5-official-topic/96491/1)
