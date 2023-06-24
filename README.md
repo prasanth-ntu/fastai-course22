@@ -46,7 +46,7 @@ Youtube Playlist: [Practical Deep Learning for Coders 2022](https://www.youtube.
       - Kaggle version - [which image models are best](https://www.kaggle.com/code/prasanth07/which-image-models-are-best)
     - GitHub - [fastai/course22/04-how-does-a-neural-net-really-work.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/04-how-does-a-neural-net-really-work.ipynb)
   - Additional files
-    - [titnaic.xlsx](xl/titanic.xlsx) - To viz linear reg and NNet
+    - [titanic.xlsx](xl/titanic.xlsx) - To viz linear reg and NNet
   - fast.ai - [Lessons/lesson3.html](https://course.fast.ai/Lessons/lesson3.html)
   - fast.ai forums - [Lesson 3 official topic](https://forums.fast.ai/t/lesson-3-official-topic/96254/1)
   - My apps and demos
@@ -57,4 +57,17 @@ Youtube Playlist: [Practical Deep Learning for Coders 2022](https://www.youtube.
 - Lesson 4
   - Youtube - [Lesson 3: Practical Deep Learning for Coders 2022](https://www.youtube.com/watch?v=toUgBQv1BT8)
   - Slides - [fastai/course22/slides/lesson4.pdf](https://github.com/prasanth-ntu/fastai-course22/blob/master/slides/lesson4.pdf)
-  - Notebooks - 
+  - Notebooks 
+    - GitHub - [fastai/course22/kaggle-notebooks/getting-started-with-nlp-for-absolute-beginners.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/kaggle_notebooks/getting-started-with-nlp-for-absolute-beginners.ipynb)
+      - Kaggle version: [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/prasanth07/getting-started-with-nlp-for-absolute-beginners/)
+
+- Lesson 5
+  - Youtube - [Lesson 5: Practical Deep Learning for Coders 2022
+](https://www.youtube.com/watch?v=_rXzeWq4C6w)
+  - Slides - 
+  - Notebooks
+    - GitHub - [fastai/course22/05-linear-model-and-neural-net-from-scratch.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/05-linear-model-and-neural-net-from-scratch.ipynb)
+    - GitHub - [fastai/course22/06-why-you-should-use-a-framework.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/06-why-you-should-use-a-framework.ipynb)
+    - GitHub - [fastai/fastai-course22/07-how-random-forests-really-work.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/07-how-random-forests-really-work.ipynb)
+  - Additional files
+    - [titanic.xlsx](xl/titanic.xlsx) - To viz linear reg and NNet
