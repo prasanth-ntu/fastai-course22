@@ -73,7 +73,7 @@ Youtube Playlist: [Practical Deep Learning for Coders 2022](https://www.youtube.
     - GitHub - [fastai/fastai-course22/07-how-random-forests-really-work.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/07-how-random-forests-really-work.ipynb)
       - Partially covered until "Binary Splits"
     - Helpful files on titanic
-      - GitHub - 
+      - GitHub - [fastai/course22/kaggle_notebooks/titanic-advanced-feature-engineering-tutorial.ipynb](https://github.com/prasanth-ntu/fastai-course22/blob/master/kaggle_notebooks/titanic-advanced-feature-engineering-tutorial.ipynb)
         - Kaggle version - [Titanic - Advanced Feature Engineering Tutorial](https://www.kaggle.com/code/prasanth07/titanic-advanced-feature-engineering-tutorial)
   - Additional files
     - [titanic.xlsx](xl/titanic.xlsx) - To viz linear reg and NNet
